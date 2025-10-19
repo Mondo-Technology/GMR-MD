@@ -1,0 +1,24 @@
+Joint Name	Max (rad)	Min (rad)
+waist_yaw	3.1416	-3.1416
+r_shoulder_pitch	2.4089	-3.4558
+r_shoulder_roll	0.0000	-2.5307
+r_shoulder_yaw	2.4089	-3.1416
+r_elbow_roll	1.3614	0.0000
+r_wrist_yaw	0.2618	-5.4978
+r_wrist_roll	3.1416	-3.1416
+l_shoulder_pitch	2.4089	-3.4558
+l_shoulder_roll	2.5307	0.0000
+l_shoulder_yaw	3.4558	-2.4089
+l_elbow_roll	0.0000	-1.3614
+l_wrist_yaw	5.4978	-0.2618
+l_wrist_roll	3.1416	-3.1416
+r_hip_roll	0.6545	-0.9163
+r_hip_pitch	0.5236	-2.0944
+r_hip_yaw	0.7854	-0.7854
+r_knee_pitch	2.0944	0.0000
+r_ankle_pitch	0.7854	-0.7854
+l_hip_roll	0.9163	-0.6545
+l_hip_pitch	0.5236	-2.0944
+l_hip_yaw	0.7854	-0.7854
+l_knee_pitch	2.0944	0.0000
+l_ankle_pitch	0.7854	-0.7854
